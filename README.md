@@ -8,7 +8,7 @@
 </p>
 
 ## Learning Laravel
-My List for Learn Larave:
+My List for Learn Laravel:
 
 - Laravel Polymorphic
 - Laravel Collection
